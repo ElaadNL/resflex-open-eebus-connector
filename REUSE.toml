@@ -1,0 +1,24 @@
+version = 1
+
+# Specification documents published by the EEBus Initiative e.V., reproduced
+# here for implementer reference only. They are not covered by the Apache-2.0
+# license that applies to the rest of this repository. See DISCLAIMER.md.
+[[annotations]]
+path = "EEBUSspec/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "EEBus Initiative e.V."
+SPDX-License-Identifier = "LicenseRef-EEBus-Initiative"
+
+# Build and configuration files without an inline SPDX header.
+[[annotations]]
+path = [
+    ".clang-format",
+    ".gitignore",
+    "CMakeLists.txt",
+    "sources.cmake",
+    "examples/CMakeLists.txt",
+    "tests/CMakeLists.txt",
+]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "ElaadNL"
+SPDX-License-Identifier = "Apache-2.0"

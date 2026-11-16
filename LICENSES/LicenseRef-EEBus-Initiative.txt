@@ -1,0 +1,17 @@
+EEBus Initiative specification documents
+========================================
+
+The files under `EEBUSspec/` are specification documents and XML schemas
+published by the EEBus Initiative e.V. They remain the copyright of the EEBus
+Initiative e.V. and are reproduced in this repository for implementer reference
+only.
+
+These files are NOT licensed under the Apache License 2.0 that applies to the
+rest of this repository, and ElaadNL does not grant any license to them. Their
+use and redistribution are governed by the terms of the EEBus Initiative e.V.
+The normative SHIP and SPINE specification documents and the LPC/LPP high-level
+test specifications are not redistributed here; obtain them directly from the
+EEBus Initiative (https://www.eebus.org/).
+
+This notice records the copyright and licensing status of those files for REUSE
+(https://reuse.software/) compliance. It is not itself a license grant.
